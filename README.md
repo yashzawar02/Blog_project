@@ -9,3 +9,5 @@ Database file is included
 --Create a database in xampp server with name as same of the database file included here and import it into your xampp server.
 
 --No license yet.
+
+Fork download the zip file and then extract it.
