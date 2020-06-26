@@ -1,6 +1,6 @@
 # Blog-Website
 
-# Description
+## Description
 
 A website made using HTML5 and CSS3 at the front-end and PHP, MySQL at the back-end. 
 Its a fully fledged website which allow users to register themselves and to post new content in a particular scope of area.
@@ -35,3 +35,4 @@ It has a user side and admin side.
 1.PHP
 2.MySQL
 
+[View the website Here](http://yashzawar.000webhostapp.com/)
