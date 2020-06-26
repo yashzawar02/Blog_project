@@ -25,14 +25,14 @@ It has a user side and admin side.
 
 ### Front-End:
 
-1.HTML-5
-2.CSS-3
-3.Javascript
-4.BootStrap-4
+1. HTML-5
+2. CSS-3
+3. Javascript
+4. BootStrap-4
 
 ### Back-End:
 
-1.PHP
-2.MySQL
+1. PHP
+2. MySQL
 
 [View the website Here](http://yashzawar.000webhostapp.com/)
